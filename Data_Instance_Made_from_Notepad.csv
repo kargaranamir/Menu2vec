@@ -1,0 +1,254 @@
+Menu names to associate,,Association Score
+New,Open,80
+New,Save,50
+New,Save As,50
+New,Page Setup,40
+New,Print,40
+New,Exit,20
+New,Undo,10
+New,Cut,10
+New,Copy,10
+New,Paste,10
+New,Delete,10
+New,Find,1
+New,Find Next,1
+New,Replace,1
+New,Goto,1
+New,Select All,1
+New,Time/Date,1
+New,Word wrap,5
+New,Font,5
+New,Status Bar,5
+New,View Help,5
+New,About Notepad,5
+Open,Save,20
+Open,Save As,20
+Open,Page Setup,20
+Open,Print,20
+Open,Exit,10
+Open,Undo,1
+Open,Cut,1
+Open,Copy,1
+Open,Paste,1
+Open,Delete,1
+Open,Find,1
+Open,Find Next,1
+Open,Replace,1
+Open,Goto,1
+Open,Select All,1
+Open,Time/Date,1
+Open,Word wrap,1
+Open,Font,1
+Open,Status Bar,1
+Open,View Help,1
+Open,About Notepad,1
+Save,Save As,100
+Save,Page Setup,60
+Save,Print,60
+Save,Exit,10
+Save,Undo,1
+Save,Cut,1
+Save,Copy,1
+Save,Paste,1
+Save,Delete,1
+Save,Find,1
+Save,Find Next,1
+Save,Replace,1
+Save,Goto,1
+Save,Select All,1
+Save,Time/Date,1
+Save,Word wrap,1
+Save,Font,1
+Save,Status Bar,1
+Save,View Help,1
+Save,About Notepad,1
+Save As,Page Setup,60
+Save As,Print,60
+Save As,Exit,1
+Save As,Undo,1
+Save As,Cut,1
+Save As,Copy,1
+Save As,Paste,1
+Save As,Delete,1
+Save As,Find,1
+Save As,Find Next,1
+Save As,Replace,1
+Save As,Goto,1
+Save As,Select All,1
+Save As,Time/Date,1
+Save As,Word wrap,1
+Save As,Font,1
+Save As,Status Bar,1
+Save As,View Help,1
+Save As,About Notepad,1
+Page Setup,Print,80
+Page Setup,Exit,10
+Page Setup,Undo,1
+Page Setup,Cut,1
+Page Setup,Copy,1
+Page Setup,Paste,1
+Page Setup,Delete,1
+Page Setup,Find,1
+Page Setup,Find Next,1
+Page Setup,Replace,1
+Page Setup,Goto,1
+Page Setup,Select All,1
+Page Setup,Time/Date,1
+Page Setup,Word wrap,1
+Page Setup,Font,1
+Page Setup,Status Bar,1
+Page Setup,View Help,1
+Page Setup,About Notepad,1
+Print,Exit,10
+Print,Undo,1
+Print,Cut,1
+Print,Copy,1
+Print,Paste,1
+Print,Delete,1
+Print,Find,1
+Print,Find Next,1
+Print,Replace,1
+Print,Goto,1
+Print,Select All,1
+Print,Time/Date,1
+Print,Word wrap,1
+Print,Font,1
+Print,Status Bar,1
+Print,View Help,1
+Print,About Notepad,1
+Exit,Undo,1
+Exit,Cut,1
+Exit,Copy,1
+Exit,Paste,1
+Exit,Delete,1
+Exit,Find,1
+Exit,Find Next,1
+Exit,Replace,1
+Exit,Goto,1
+Exit,Select All,1
+Exit,Time/Date,1
+Exit,Word wrap,1
+Exit,Font,1
+Exit,Status Bar,1
+Exit,View Help,1
+Exit,About Notepad,1
+Undo,Cut,100
+Undo,Copy,80
+Undo,Paste,80
+Undo,Delete,80
+Undo,Find,10
+Undo,Find Next,10
+Undo,Replace,1
+Undo,Goto,1
+Undo,Select All,1
+Undo,Time/Date,1
+Undo,Word wrap,1
+Undo,Font,1
+Undo,Status Bar,1
+Undo,View Help,1
+Undo,About Notepad,1
+Cut,Copy,100
+Cut,Paste,100
+Cut,Delete,100
+Cut,Find,1
+Cut,Find Next,1
+Cut,Replace,10
+Cut,Goto,1
+Cut,Select All,1
+Cut,Time/Date,1
+Cut,Word wrap,1
+Cut,Font,1
+Cut,Status Bar,1
+Cut,View Help,1
+Cut,About Notepad,1
+Copy,Paste,100
+Copy,Delete,70
+Copy,Find,1
+Copy,Find Next,1
+Copy,Replace,1
+Copy,Goto,1
+Copy,Select All,50
+Copy,Time/Date,1
+Copy,Word wrap,1
+Copy,Font,1
+Copy,Status Bar,1
+Copy,View Help,1
+Copy,About Notepad,1
+Paste,Delete,80
+Paste,Find,10
+Paste,Find Next,10
+Paste,Replace,10
+Paste,Goto,5
+Paste,Select All,40
+Paste,Time/Date,1
+Paste,Word wrap,1
+Paste,Font,1
+Paste,Status Bar,1
+Paste,View Help,1
+Paste,About Notepad,1
+Delete,Find,1
+Delete,Find Next,1
+Delete,Replace,1
+Delete,Goto,1
+Delete,Select All,10
+Delete,Time/Date,1
+Delete,Word wrap,1
+Delete,Font,1
+Delete,Status Bar,1
+Delete,View Help,1
+Delete,About Notepad,1
+Find,Find Next,100
+Find,Replace,80
+Find,Goto,70
+Find,Select All,1
+Find,Time/Date,1
+Find,Word wrap,1
+Find,Font,1
+Find,Status Bar,1
+Find,View Help,1
+Find,About Notepad,1
+Find Next,Replace,80
+Find Next,Goto,60
+Find Next,Select All,1
+Find Next,Time/Date,1
+Find Next,Word wrap,1
+Find Next,Font,1
+Find Next,Status Bar,1
+Find Next,View Help,1
+Find Next,About Notepad,1
+Replace,Goto,70
+Replace,Select All,1
+Replace,Time/Date,1
+Replace,Word wrap,1
+Replace,Font,1
+Replace,Status Bar,1
+Replace,View Help,1
+Replace,About Notepad,1
+Goto,Select All,1
+Goto,Time/Date,1
+Goto,Word wrap,1
+Goto,Font,1
+Goto,Status Bar,1
+Goto,View Help,1
+Goto,About Notepad,1
+Select All,Time/Date,5
+Select All,Word wrap,10
+Select All,Font,20
+Select All,Status Bar,1
+Select All,View Help,1
+Select All,About Notepad,1
+Time/Date,Word wrap,1
+Time/Date,Font,1
+Time/Date,Status Bar,1
+Time/Date,View Help,1
+Time/Date,About Notepad,1
+Word wrap,Font,40
+Word wrap,Status Bar,1
+Word wrap,View Help,1
+Word wrap,About Notepad,1
+Font,Status Bar,1
+Font,View Help,1
+Font,About Notepad,1
+Status Bar,View Help,1
+Status Bar,About Notepad,1
+View Help,About Notepad,80

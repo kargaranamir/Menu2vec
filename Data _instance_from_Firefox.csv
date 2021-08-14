@@ -1,0 +1,93 @@
+Menu names to associate,,Association Score
+RecentlyClosed Tab,Recently Closed Windows,0.99
+RecentlyClosed Tab,Close Tab,0.75
+RecentlyClosed Tab,Close Window,0.6
+Recently Closed Windows,Close Tab,0.6
+Recently Closed Windows,Close Window,0.75
+User History Item,Clear Recent History,0.75
+User History Item,Show All History,0.99
+Show All Bookmarks,Bookmark This Page,0.75
+Show All Bookmarks,Bookmark All Pages,0.75
+Show All Bookmarks,Unsorted Bookmarks,0.75
+Bookmark This Page,Bookmark All Pages,0.99
+Bookmark This Page,Unsorted Bookmarks,0.6
+Subscribe To This Page,Downloads,0.6
+Bookmark All Pages,Unsorted Bookmarks,0.6
+Minimize,Zoom,0.75
+Zoom,Zoom In,0.9
+Zoom,Zoom Out,0.9
+Start Page,Show All History,0.6
+Start Page,Save Page As,0.6
+Start Page,Page Setup,0.6
+About Mozzila Firefox,Check for Updates,0.75
+About Mozzila Firefox,Downloads,0.75
+About Mozzila Firefox,Unsorted Bookmarks,0.75
+Add Ons,Work Offline,0.4
+Check for Updates,Clear Recent History,0.4
+Check for Updates,Web Search,0.4
+Check for Updates,Email Link,0.75
+Clear Recent History,Show All History,0.9
+Clear Recent History,Restore Previous Session,0.4
+Customize,Zoom In,0.4
+Customize,Zoom Out,0.4
+Downloads,Work Offline,0.4
+Downloads,Show All History,0.4
+Downloads,Restore Previous Session,0.4
+Reload ,Stop,0.6
+Reload ,Reset,0.75
+Reload ,Page Info,0.4
+Stop,Reset,0.75
+Stop,Undo,0.6
+Stop,Redo,0.6
+Stop,Back,0.4
+Stop,Forward,0.4
+Reset,Back,0.4
+Reset,Forward,0.4
+Reset,Home,0.4
+Zoom In,Zoom Out,0.99
+New,New Window,0.99
+New,Open Location,0.4
+New,Open File,0.6
+New,Close Tab,0.2
+New,Close Window,0.2
+New,Save Page As,0.5
+New,Page Setup,0.5
+New,Print,0.6
+New,Undo,0.2
+New,Redo,0.2
+New,Cut,0.2
+New,Copy,0.2
+New,Paste,0.2
+New,Delete,0.2
+New,Select All,0.2
+New,Find,0.2
+New,Find Again,0.2
+New,Back,0.2
+New,Forward,0.2
+New,Home,0.2
+Open Location,Open File,0.9
+Open Location,Close Tab,0.4
+Open Location,Close Window,0.6
+Open File,Close Tab,0.2
+Open File,Close Window,0.2
+Close Tab,Close Window,0.99
+Close Tab,Save Page As,0.4
+Save Page As,Page Setup,0.75
+Save Page As,Print,0.6
+Page Setup,Print,0.6
+Undo,Redo,0.99
+Undo,Cut,0.6
+Undo,Copy,0.6
+Undo,Paste,0.6
+Undo,Delete,0.4
+Undo,Back,0.2
+Undo,Forward,0.2
+Undo,Home,0.2
+Cut,Copy,0.99
+Cut,Paste,0.99
+Cut,Delete,0.8
+Copy,Paste,0.99
+Find,Back,0.99
+Back,Forward,0.99
+Back,Home,0.99
+Forward,Home,0.99
