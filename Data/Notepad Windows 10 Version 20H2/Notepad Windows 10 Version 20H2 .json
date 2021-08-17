@@ -1,0 +1,24 @@
+{
+  "File":{
+    "1": ["New", "New Window", "Open", "Save", "Save as"],
+    "2": ["Page Setup", "Print"],
+    "3": ["Exit"]
+  },
+  "Edit":{
+    "1": ["Undo"],
+    "2": ["Cut", "Copy", "Paste", "Delete"],
+    "3":["Search with Bing", "Find", "Find Next", "Find Previous", "Replace", "Go to"],
+    "4": ["Select All", "Time/Date"]
+  },
+  "Format":{
+    "1":["Word Wrap", "Font"]
+  },
+  "View":{
+    "1":["Zoom", "Status Bar"],
+    "Zoom":["Zoom In, Zoom Out, Restore Default Zoom"]
+  },
+  "Help":{
+    "1":["View Help", "Send Feedback"],
+    "2":["About Notepad"]
+  }
+}
